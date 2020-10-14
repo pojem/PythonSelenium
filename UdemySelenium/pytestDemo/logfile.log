@@ -1,0 +1,16 @@
+2020-05-19 08:30:35,322 :INFO pytestDemo.baseClass :PojeMarko
+2020-05-19 08:31:38,584 :INFO pytestDemo.baseClass :PojeMarko
+2020-05-19 08:31:40,640 :INFO pytestDemo.baseClass :PojeMarko
+2020-05-19 08:33:57,686 :INFO pytestDemo.baseClass :PojeMarko
+2020-05-19 08:35:27,552 :INFO pytestDemo.baseClass :PojeMarko
+2020-05-19 08:37:00,232 :INFO test_editprofile :PojeMarko
+2020-05-19 08:37:45,785 :INFO test_editprofile :PojeMarko
+2020-05-19 08:45:47,370 :INFO test_editprofile :PojeMarko
+2020-05-19 08:45:47,375 :ERROR pytestDemo.test_logging :this is error
+2020-05-19 08:45:47,375 :CRITICAL pytestDemo.test_logging :this is critical
+2020-05-24 14:51:47,922 :INFO test_editprofile :PojeMarko
+2020-05-24 14:51:47,926 :ERROR pytestDemo.test_logging :this is error
+2020-05-24 14:51:47,926 :CRITICAL pytestDemo.test_logging :this is critical
+2020-06-08 14:16:48,444 :INFO test_editprofile :PojeMarko
+2020-06-08 14:16:48,448 :ERROR pytestDemo.test_logging :this is error
+2020-06-08 14:16:48,448 :CRITICAL pytestDemo.test_logging :this is critical

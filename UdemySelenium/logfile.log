@@ -1,0 +1,6 @@
+2020-06-08 14:11:56,715 :INFO test_editprofile :PojeMarko
+2020-06-08 14:11:56,725 :ERROR pytestDemo.test_logging :this is error
+2020-06-08 14:11:56,726 :CRITICAL pytestDemo.test_logging :this is critical
+2020-06-08 14:12:43,658 :INFO test_editprofile :PojeMarko
+2020-06-08 14:12:43,663 :ERROR pytestDemo.test_logging :this is error
+2020-06-08 14:12:43,663 :CRITICAL pytestDemo.test_logging :this is critical
